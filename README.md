@@ -4,8 +4,7 @@ This script automates the process of sending tokens to multiple addresses on the
 Prerequisites
 Python: Install Python 3.10
 
-Install Dependencies:
-Use the following command to install the required Web3 library: ```pip install web3```
+Install Dependencies: ```pip install web3```
 
 Files Required
 Place the following files in the same directory as the script:
