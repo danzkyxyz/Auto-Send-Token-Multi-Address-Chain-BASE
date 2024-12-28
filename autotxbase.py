@@ -92,4 +92,4 @@ for recipient in recipients:
         print(f"Transaction successful for {recipient} with TX ID: {tx_id}")
     time.sleep(2)
 
-print("All token transactions have been sent.")
+print("All token transactions has been sent.")
